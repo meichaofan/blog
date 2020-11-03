@@ -1,0 +1,5 @@
+admin:
+  username: meichaofan
+  password_hash: $2y$10$1ogxwZthgxnHF9GYAFUHn.mf0g5Ko2/1WXRPc30PCgjXcNXtfjPbi
+  secret: hey hexo
+  deployCommand: './admin_script/hexo-generate.sh'
